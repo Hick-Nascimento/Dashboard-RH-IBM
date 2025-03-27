@@ -15,4 +15,3 @@ Este dashboard no Power BI foi desenvolvido para analisar a rotatividade de func
 ✅ Power Query – Tratamento e transformação dos dados
 
 Este projeto ajuda a entender os principais fatores que impactam a retenção de talentos, fornecendo insights valiosos para a gestão de pessoas. 🚀
-
