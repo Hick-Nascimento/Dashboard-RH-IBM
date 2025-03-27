@@ -1,0 +1,1 @@
+Este dashboard no Power BI foi desenvolvido para analisar a rotatividade de funcionários da IBM, utilizando dados de RH. Com ele, é possível identificar padrões e fatores que influenciam o desligamento dos colaboradores.
